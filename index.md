@@ -1,7 +1,7 @@
 # Portfolio
 ## AI Project
 
-AI-assisted planning web application with individual user accounts and personalized planning. Built with Python, FastAPI, PostgreSQL, Docker, and Azure, the project gave me practical experience in LLM integration, database management, and deployment. The project is still planned to be developed. My main aim was to learn new skills while building an app I could use in my daily life.
+AI-assisted planning web application with individual user accounts and personalized planning. Built with Python, FastAPI, PostgreSQL, and OpenAI model, the project gave me practical experience in LLM integration, database management, and deployment. I plan to continue developing the project. The main aim was to learn new skills while building an app I could use in my daily life.
 
 
 
