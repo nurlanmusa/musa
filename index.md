@@ -1,7 +1,12 @@
-## Portfolio
+# Portfolio
+## AI Project
+
+AI-assisted planning web application with individual user accounts and personalized planning. Built with Python, FastAPI, PostgreSQL, Docker, and Azure, the project gave me practical experience in LLM integration, database management, and deployment. The project is still planned to be developed. My main aim was to learn new skills while building an app I could use in my daily life.
+
+https://daytime-web.delightfulsand-bdbc2d4c.swedencentral.azurecontainerapps.io/
 
 ---
-
+## Master degree Projects
 ### News Analysis
 
 [Notebook](https://colab.research.google.com/drive/1MfhscJ1tw4a0Zs7GYLk9t-AOQiCLsoZQ#scrollTo=tdlvDaZwrkt4)
