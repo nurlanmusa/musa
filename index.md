@@ -1,11 +1,20 @@
 # Portfolio
-## AI Project
+## AI Projects
+
+### Course Retrieval and Recommendation System
+
+A backend prototype for finding relevant university courses from user-specified skills or learning interests. The application retrieves courses with multilingual sentence embeddings stored in PostgreSQL/pgvector; an optional local LLM via Ollama produces answers grounded in retrieved course descriptions. More information and repository: 
+
+https://github.com/nurlanmusa/AI_Course-recommend 
+[Course Recommendation RAG](https://github.com/nurlanmusa/AI_Course-recommend)
+
+
+### Task Planner
 
 AI-assisted planning web application with individual user accounts and personalized planning. Built with Python, FastAPI, PostgreSQL, and OpenAI model, the project gave me practical experience in LLM integration, database management, and deployment. I plan to continue developing the project. The main aim was to learn new skills while building an app I could use in my daily life.
 
 
-
-[Daily Planner](https://daytime-web.delightfulsand-bdbc2d4c.swedencentral.azurecontainerapps.io/)
+[Daily Planner](https://drive.google.com/file/d/1-dEOMk21Zqfzs9Z5Alf9jypSp0n1gyTI/view?usp=sharing)
 
 ---
 ## Master degree Projects
