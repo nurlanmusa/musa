@@ -5,7 +5,7 @@
 
 A backend prototype for finding relevant university courses from user-specified skills or learning interests. The application retrieves courses with multilingual sentence embeddings stored in PostgreSQL/pgvector; an optional local LLM via Ollama produces answers grounded in retrieved course descriptions. More information and repository: 
 
-https://github.com/nurlanmusa/AI_Course-recommend 
+
 [Course Recommendation RAG](https://github.com/nurlanmusa/AI_Course-recommend)
 
 
